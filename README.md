@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE HTML>
 <html>
 <head>
 <!--Website Details-->
@@ -19,11 +19,11 @@
 <!--Display Page-->
 <div class="navbar">
     <a href="#0" class="active" float="left">Top</a>
-    <a href="#1" float="left">Content</a>
-    <a href="#2" float="left">Contact Us</a>
+    <a href="#1" float="left"></a>
+    <a href="#2" float="left"></a>
     <div class="right nav">
-    <a href="shrekw.html" style="float: right;">Shrek Wazowski</a>
-    <a href="shrek.html" style="float: right;">Shrek</a>
+    <a href=".html" style="float: right;"></a>
+    <a href=".html" style="float: right;"></a>
     </div>
     </div>
 
